@@ -1,5 +1,3 @@
-
-
 # 🏨 Stay Finder - Full Stack Booking Platform
 
 A full-featured stay booking platform built with **Next.js** for the frontend and **Node.js** for the backend. The app includes user authentication, property listings, detailed profiles, and booking functionality.
