@@ -2,7 +2,7 @@
 
 A full-featured stay booking platform built with **Next.js** for the frontend and **Node.js** for the backend. The app includes user authentication, property listings, detailed profiles, and booking functionality.
 
-> Developed by [Abhishek Gurjar](https://github.com/abhishekboadgurjar)
+> Developed by [Abhishek Gurjar](https://github.com/abhishekgurjarin)
 
 ---
 
@@ -185,4 +185,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 Made with ❤️ by **Abhishek Gurjar**
-GitHub: [@abhishekboadgurjar](https://github.com/abhishekboadgurjar)
+GitHub: [@abhishekgurjarin](https://github.com/abhishekgurjarin)
